@@ -84,6 +84,6 @@ To become a fullstack engineer and launch a **tech startup** focused on **AI-pow
 
 ---
 
-### ✨ "I believe there's something great in me. I choose to build, learn, and lead through code."  
-> — Emmanuel Oginga
+### ✨ ""The man who moves a mountain begins by carrying away small stones." 
+> — Confucius
 ```

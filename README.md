@@ -1,49 +1,47 @@
 # 👋 Hi, I'm Emmanuel Oginga
 
-### Junior Frontend Developer | Future Fullstack Engineer | Tech Explorer
+### Junior Frontend Developer | React Learner | Project-Focused
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **junior frontend developer** with strong skills in **HTML, CSS, and JavaScript**, currently expanding my backend knowledge through **Core Java**. I believe in building clean, accessible, and impactful user experiences.
+I'm a **junior frontend developer** currently focused on **learning and applying JavaScript and React** through practical projects. I enjoy **building functional and responsive user interfaces** while improving my skills in **state management, component architecture, and clean code practices**.  
 
-I’m on a mission to grow into a **fullstack software engineer**, with long-term goals of exploring the world of **machine learning** and intelligent systems.
+I prefer **learning by doing**, tackling real projects to strengthen my knowledge and gradually grow toward fullstack development.
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Core Skills
-- **HTML5**
-- **CSS3**
+- **HTML5 & CSS3**
 - **JavaScript (ES6+)**
+- **React.js**
+- **Tailwind CSS**
 
 ### 🌱 Currently Learning
-- **Java (OOP & Fundamentals)**
-- **Advanced CSS Techniques**
-- **DOM Manipulation & Vanilla JS**
-- **Frontend Architecture & Best Practices**
+- Advanced **React patterns** & **state management** (Zustand, Context API)
+- **Frontend performance optimization**
+- **Project structuring & clean code practices**
 
 ---
 
-## 🎯 Career Path & Goals
+## 🎯 Current Focus
 
-- ✅ Frontend Developer *(current role)*
-- 🔄 Fullstack Developer *(in progress)*
-- 🚀 Software Engineer *(future role)*
-- 🤖 Machine Learning Explorer *(long-term goal)*
+- Building **real-world React projects**  
+- Mastering **modern JavaScript**  
+- Improving **UI/UX design and responsiveness**  
 
 ---
 
 ## 💡 Collaboration Interests
 
-I'm open to collaborating on:
+I’m open to collaborating on:
 
-- Responsive frontend UI projects
-- Portfolio websites & personal branding tools
-- Entry-level fullstack projects (with mentorship)
-- Study groups or peer coding sessions
+- React-based frontend projects  
+- Interactive portfolio websites  
+- Learning-focused coding sessions  
 
 ---
 
@@ -73,5 +71,5 @@ I'm open to collaborating on:
 ---
 
 <p align="center">
-  <b>"First, solve the problem. Then, write the code."</b> – Let’s build something meaningful.
+  <b>"First, solve the problem. Then, write the code."</b> – Let’s build meaningful projects together.
 </p>

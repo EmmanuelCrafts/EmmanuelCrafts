@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel Oginga
 
-### Junior Frontend Developer | React Learner | Project-Focused
+### Junior Frontend Developer | React Learner | 
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **junior frontend developer** currently focused on **learning and applying JavaScript and React** through practical projects. I enjoy **building functional and responsive user interfaces** while improving my skills in **state management, component architecture, and clean code practices**.  
+I'm a ** frontend developer** currently focused on **learning and applying JavaScript and React** through practical projects. I enjoy **building functional and responsive user interfaces** while improving my skills in **state management, component architecture, and clean code practices**.  
 
 I prefer **learning by doing**, tackling real projects to strengthen my knowledge and gradually grow toward fullstack development.
 

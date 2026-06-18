@@ -1,61 +1,49 @@
 # 👋 Hi, I'm Emmanuel Oginga
-
-###  Frontend Developer | React Learner | 
-
+### Frontend Developer | Angular & TypeScript 
 ---
-
 ## 🚀 About Me
+I'm a frontend developer actively building toward a **professional Angular role**. I'm currently working through a structured 18-week Angular + TypeScript roadmap while contributing to a **real-world Angular codebase** — learning by doing, not just reading.
 
-I'm a ** frontend developer** currently focused on **learning and applying JavaScript and React** through practical projects. I enjoy **building functional and responsive user interfaces** while improving my skills in **state management, component architecture, and clean code practices**.  
-
-I prefer **learning by doing**, tackling real projects to strengthen my knowledge and gradually grow toward fullstack development.
-
+My focus is building production-quality skills in **Angular architecture, TypeScript, and RxJS** through hands-on projects on Frontend Mentor.
 ---
-
 ## 🧰 Tech Stack
-
 ### 💻 Core Skills
 - **HTML5 & CSS3**
 - **JavaScript (ES6+)**
-- **React.js**
-- **Tailwind CSS**
+- **TypeScript**
+- **Angular (v17+)**
 
 ### 🌱 Currently Learning
-- Advanced **React patterns** & **state management** (Zustand, Context API)
-- **Frontend performance optimization**
-- **Project structuring & clean code practices**
+- **Angular component architecture** & decorators
+- **TypeScript OOP** — classes, interfaces, generics
+- **RxJS & Observables**
+- **Angular routing, services & dependency injection**
 
+### 🔜 On the Horizon
+- **NgRx** state management
+- **Angular Signals** (v17+)
+- Change detection & performance optimization
+- Testing in Angular
 ---
-
 ## 🎯 Current Focus
-
-- Building **real-world React projects**  
-- Mastering **modern JavaScript**  
-- Improving **UI/UX design and responsiveness**  
-
+- Contributing to a **live Angular codebase**
+- Applying each learning phase immediately to **Frontend Mentor projects**
+- Building a portfolio that demonstrates real Angular proficiency
 ---
-
 ## 💡 Collaboration Interests
-
-I’m open to collaborating on:
-
-- React-based frontend projects  
-- Interactive portfolio websites  
-- Learning-focused coding sessions  
-
+I'm open to collaborating on:
+- Angular frontend projects
+- TypeScript-first codebases
+- Learning-focused builds with clean architecture
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmmanuelCrafts&show_icons=true&theme=radical&include_all_commits=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelCrafts&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
-
 ## 📫 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-oginga-ab1ba9352" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -69,7 +57,6 @@ I’m open to collaborating on:
 </p>
 
 ---
-
 <p align="center">
-  <b>"First, solve the problem. Then, write the code."</b> – Let’s build meaningful projects together.
+  <b>"First, solve the problem. Then, write the code."</b> – Building toward Angular mastery, one project at a time.
 </p>

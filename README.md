@@ -1,11 +1,5 @@
 <h1 align="center">Hi, I'm Emmanuel Oginga 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/EmmanuelCrafts">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+Moi+University;Building+with+Angular%2C+TypeScript+%26+JavaScript;Passionate+about+clean%2C+maintainable+code;Always+learning.+Always+improving." alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ## 👋 Introduction

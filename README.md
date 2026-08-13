@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Emmanuel Oginga 👋</h1>
-<h3 align="center">Computer Science student, building with Angular and TypeScript.</h3>
 
 <p align="center">
   <a href="https://github.com/EmmanuelCrafts">
@@ -11,7 +10,7 @@
 
 ## 👋 Introduction
 
-I'm a Computer Science student at Moi University, building modern web applications with Angular, TypeScript, and JavaScript.
+I'm a software developer building modern web applications with Angular, TypeScript, and JavaScript.
 
 I enjoy building software that solves real problems — not just for the sake of building, but because I like seeing something work well for the people who actually use it. I believe in understanding the fundamentals before reaching for frameworks, and I try to write code that's clean and maintainable, not just code that works.
 

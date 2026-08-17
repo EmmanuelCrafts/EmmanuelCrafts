@@ -64,19 +64,6 @@ I'm still early in my journey, and I'm okay with that. I'd rather build a solid 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmmanuelCrafts&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelCrafts&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelCrafts&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Goals
 
 **Short-term**
